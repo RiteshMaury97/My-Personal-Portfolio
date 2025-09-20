@@ -128,8 +128,17 @@ main hr {
 
 .vertical-des {
     position: relative;
-    top: 100px;
+    top: 86px;
     color: grey;
     width: 150px;
-    font-size:9px;
+    font-size: 9px;
+}
+footer {
+    background-color: #0e0e1a;
+    height: 233px;
+    margin-top: 56px;
+}
+.flex-footer{
+    display: flex;
+    padding: 23px 122px;
 }
